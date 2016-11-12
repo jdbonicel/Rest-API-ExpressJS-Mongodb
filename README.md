@@ -1,13 +1,17 @@
 REST API - ExpressJS - MONGODB
 
 install:
+
 - node
 - mongodb
 
 
-How it works:
+How does it work:
+
 1-) npm install
+
 2-) start mongodb : mongod
+
 3-) in another terminal, start node server : node server.js
 
 go to:
